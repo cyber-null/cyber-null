@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mahmood
-- 👀 I’m interested in java script
-- 🌱 I’m currently learning java script
+- 👋 Hi, I’m Cyber
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 
 
 

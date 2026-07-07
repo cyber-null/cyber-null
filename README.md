@@ -9,7 +9,7 @@ I'm an Electrical Engineering undergraduate passionate about building useful thi
 
 ## 🚀 About Me
 
-- 🎓 Studing Electrical Engineering
+- 🎓 Studying Electrical Engineering
 - 🐧 Linux enthusiast & daily user
 - 💻 Interested in DevOps & Cloud Technologies
 - 🏠 Self-hosting & Homelab lover

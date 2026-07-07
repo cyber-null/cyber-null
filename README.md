@@ -2,16 +2,16 @@
 
 ```text
 Electrical Engineering Student ⚡
-Linux • Open Source • Backend • Self-hosting
+Linux • Open Source • DevOps • Cloud • Self-hosting
 ```
 
 I'm an Electrical Engineering undergraduate passionate about building useful things, exploring open-source technologies, and continuously improving my skills.
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. in Electrical Engineering
+- 🎓 Studing Electrical Engineering
 - 🐧 Linux enthusiast & daily user
-- 💻 Interested in Backend Development
+- 💻 Interested in DevOps & Cloud Technologies
 - 🏠 Self-hosting & Homelab lover
 - ⚡ Bash scripting and automation
 - 📚 Lifelong learner
@@ -25,10 +25,12 @@ I'm an Electrical Engineering undergraduate passionate about building useful thi
 ## 🌱 Currently
 
 - Building personal projects
-- Learning Backend & DevOps
+- Learning DevOps & Cloud Technologies
 - Exploring Linux internals
 - Improving problem-solving skills
 
 ---
 
 > **"Stay curious. Build. Break. Learn. Repeat."**
+
+> **"Curiosity drives everything."**

@@ -19,7 +19,7 @@ I'm an Electrical Engineering undergraduate passionate about building useful thi
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,nginx,postgres,py,c,cpp,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,postgres,py,cpp,vim,vscode&theme=dark" />
 </p>
 
 ## 🌱 Currently
